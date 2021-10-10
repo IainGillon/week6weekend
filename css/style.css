@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1 {
+    color: white;
+    background-color:dodgerblue;
+    text-align: center;
+    
+}
+body {
+    background-color: yellow;
+    align-items: center;
+}
+
+#form-item {
+    align-items: center;
+}
